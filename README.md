@@ -1,5 +1,5 @@
-# technology-blacklist - the alternate technology radar
-technologoy you should avoid
+# Technology Blacklist
+The alternate technology radar listing technologoy you should avoid.
 
 ## unsorted entries
 * mapstruct
@@ -14,5 +14,8 @@ technologoy you should avoid
 ## pain guarantee
 * npm
 
-## not good - but the best you can get
+## Golden Traps
 * JIRA
+
+## not good - but the best you can get
+
