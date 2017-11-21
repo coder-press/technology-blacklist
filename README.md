@@ -16,6 +16,8 @@ The alternate technology radar listing technologoy you should avoid.
 
 ## Golden Traps
 * JIRA
+* Spring
+* Hibernate
 
 ## not good - but the best you can get
 
