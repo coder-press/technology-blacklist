@@ -10,6 +10,7 @@ The alternate technology radar listing technologoy you should avoid.
 ## run as fast as you can
 * Struts
 * Tapestry
+* ExtJS
 
 ## pain guarantee
 * npm
