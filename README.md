@@ -6,6 +6,7 @@ The alternate technology radar listing technologoy you should avoid.
 * lombok
 * maven
 * java modules
+* gradle
 
 ## run as fast as you can
 * Struts
